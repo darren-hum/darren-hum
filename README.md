@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I’m currently a Data Engineer
+- 🌱 I’m currently a Data Engineer and Dashboard Developer
 - 📙 Applied Data Science Program learning Machine Learning
 - 📫 Reach me at **data.darrenh@gmail.com**
 
