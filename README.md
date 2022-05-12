@@ -4,8 +4,8 @@
 <br>
 
 - 🌱 I’m currently a Data Engineer
-
-- 📫 How to reach me **data.darrenh@gmail.com**
+- 📙 Applied Data Science Program learning Machine Learning
+- 📫 Reach me at **data.darrenh@gmail.com**
 
 <br>
 
