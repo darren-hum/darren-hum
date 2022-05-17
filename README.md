@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Darren</h1>
-<h3 align="center">Aspiring Machine Learning Engineer </h3>
 
 <br>
 
 - 🌱 I’m currently a Data Engineer and Dashboard Developer
-- 📙 Applied Data Science Program learning Machine Learning
+- 📙 Applied Data Science Program learning Machine Learning (TIPP)
 - 📫 Reach me at **data.darrenh@gmail.com**
 
 <br>
