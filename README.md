@@ -1,10 +1,4 @@
-<h1 align="center">Hi 👋, I'm Darren</h1>
-
-<br>
-
-- 🌱 I’m currently a Data Engineer and Dashboard Developer
-- 📙 Applied Data Science Program learning Machine Learning (TIPP)
-- 📫 Reach me at **data.darrenh@gmail.com**
+![image]([https://user-images.githubusercontent.com/96287600/168872368-78171dab-f361-4a34-88dd-986dfd39341a.png](https://github.com/darren-hum/darren-hum/blob/main/assets/darren-banner.png))
 
 <br>
 
