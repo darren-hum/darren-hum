@@ -1,4 +1,4 @@
-![image]([https://user-images.githubusercontent.com/96287600/168872368-78171dab-f361-4a34-88dd-986dfd39341a.png](https://github.com/darren-hum/darren-hum/blob/main/assets/darren-banner.png))
+![alt text](https://github.com/darren-hum/darren-hum/blob/main/assets/darren-banner.png?raw=true)
 
 <br>
 
