@@ -5,7 +5,7 @@
 ## Projects
 #### Click to go to repository. <br>
 [![alt_test](https://github.com/darren-hum/darren-hum/blob/main/assets/darren-hotelreview-lda-sent.png?raw=true)](https://github.com/darren-hum/topic-classification-and-sentiment-analysis)
-[![alt_text](https://github.com/darren-hum/darren-hum/blob/main/assets/darren-university.png?raw=true)](https://github.com/darren-hum/prediction-university-acceptance-trunc)
+[![alt_text](https://github.com/darren-hum/darren-hum/blob/main/assets/darren-university-update.png?raw=true)](https://github.com/darren-hum/prediction-university-acceptance-trunc)
 [![alt_text](https://github.com/darren-hum/darren-hum/blob/main/assets/darren-cc-cust-churn.png?raw=true)](https://github.com/darren-hum/eda-credit-card-churn)
 
 
